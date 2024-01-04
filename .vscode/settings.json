@@ -4,5 +4,8 @@
         "Dota",
         "esports",
         "Fortnite"
-    ]
+    ],
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
 }
